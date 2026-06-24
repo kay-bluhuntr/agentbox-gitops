@@ -7,7 +7,7 @@
 
 image:
   repository: ghcr.io/kay-bluhuntr/agentbox
-  tag: "3bf4a3b082"  # managed by CI — do not edit by hand
+  tag: "dc6e68dc1b"  # managed by CI — do not edit by hand
   # Dev pins immutable SHA tags, so IfNotPresent is safe and lets the node use a
   # locally preloaded image (e.g. `kind load`) instead of always hitting GHCR.
   pullPolicy: IfNotPresent
